@@ -1,4 +1,4 @@
 # hello-world
 New at this
 
-GGithub seems okay.
+Github seems okay.
